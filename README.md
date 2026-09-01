@@ -1,4 +1,3 @@
-#Replication
 This repository contains the code used for the analysis.
 
 ## Code
